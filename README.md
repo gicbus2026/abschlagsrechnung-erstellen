@@ -90,3 +90,10 @@ Eine Abschlagsrechnung korrekt zu erstellen ist entscheidend für den finanziell
 
 Wenn du den Prozess vereinfachen willst, kannst du eine spezialisierte  
 [Software für Abschlagsrechnungen im Bau – AbschlagPro](https://abschlagpro.com/de) nutzen.
+
+
+## Weitere hilfreiche Inhalte
+
+- Abschlagsrechnung im Bau erklärt: https://gicbus2026.github.io/abschlagsrechnung-bau/
+- Abschlagsrechnung erstellen: https://gicbus2026.github.io/abschlagsrechnung-erstellen/
+- Bau Rechnung Vorlage: https://gicbus2026.github.io/bau-rechnung-vorlage/
